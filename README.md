@@ -26,6 +26,7 @@ Stellar age estimation plays a pivotal role in unraveling the mysteries of cosmi
 ## Usage
 
 - The GAIA DR3 dataset uses the FLAME model to classify age, Final Luminosity Age Mass Estimator, FLAME, aims to produce the stellar mass and evolutionary parameters for each Gaia source. To reduce overfitting, the dataset can be compared against the Keplar dataset. Our ML methodology grabbed and trained on 200,000 FLAME star datapoints, which its accuracy can be further compared to the other 2 billion stars in its data base.
+- Warning: This model may take a while to run, reduce learning curve, epochs, or data size for faster results.
 
 ## Expenses and Resources
 
