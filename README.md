@@ -1,4 +1,5 @@
 # Stellar Age Estimation via Machine Learning
+![image](https://github.com/jordan-duan/stellar-age-estimation-via-ml/assets/82199329/eb369393-7c8b-474b-9980-4e8363986692)
 
 ## Abstract
 
